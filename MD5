@@ -1,0 +1,9 @@
+07843a8ab61bddda1415be56d13c6e88 *DESCRIPTION
+3300d8c79a05afca9b4a552c58f4d74f *NAMESPACE
+9e110559239b6c8d104efcc62e69b4f5 *R/1_classes.R
+dad701a485ea6e1d3c58826eaab40e6d *R/2_methods.R
+a3479d6637f1a14e6d6e984fdc0eb41b *R/3_functions.R
+cea39a000d8a6c5217f02f5a72b938b9 *man/JMdesign-package.Rd
+375f634e04572e88ed36ab2337b6873a *man/powerLongSurv-class.Rd
+43458734beea3d806e324ebe4f4e8aee *man/powerLongSurv.Rd
+0ddfe8b67dd8951a5b19e9e40eb725e2 *man/show-methods.Rd
