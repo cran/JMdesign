@@ -25,7 +25,7 @@ It creates a \code{powerLongSurv} object.
 }
 \usage{
 powerLongSurv(N, nevents, tmedian, meantf, p, t, SigmaTheta, sigmae_2, ordtraj,
-              beta = 0, alpha = 0.05)
+              beta = 0, alpha = 0.05, tol = 1.5e-8)
 }
 
 \arguments{
@@ -65,6 +65,11 @@ powerLongSurv(N, nevents, tmedian, meantf, p, t, SigmaTheta, sigmae_2, ordtraj,
      numeric, strictly between 0.0 and 1.0, specifying the Type-I Error (2-sided), 
      default value 0.05. 
   }
+  \item{tol}{
+     numeric, For floating point objects x and y, 
+     if |x-y| <= tol, x==y. Passed to R function all.equal.
+  }
+
 }
 \details{
 The function \code{powerLongSurv} is used to calculate the power in joint 
@@ -96,7 +101,7 @@ Statist. Med. 2011, 30 2295-2309
 \author{
 Emil A. Cornea, Liddy M. Chen, Bahjat F. Qaqish, Haitao Chu, and Joseph G. Ibrahim
 
-Shannon T. Holloway <sthollow@ncsu.edu>
+Maintainer: Shannon T. Holloway <sthollow@ncsu.edu>
 }
 
 \seealso{

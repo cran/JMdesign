@@ -14,8 +14,8 @@ variance-covariance matrix Sigma_theta.
 \tabular{ll}{
 Package: \tab JMdesign\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-06-01\cr
+Version: \tab 1.1\cr
+Date: \tab 2014-10-21\cr
 License: \tab GPL-2 \cr
 }
 The package contains the R-function \code{powerLongSurv} to perform power 

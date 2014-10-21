@@ -1,9 +1,10 @@
-07843a8ab61bddda1415be56d13c6e88 *DESCRIPTION
-3300d8c79a05afca9b4a552c58f4d74f *NAMESPACE
-9e110559239b6c8d104efcc62e69b4f5 *R/1_classes.R
-dad701a485ea6e1d3c58826eaab40e6d *R/2_methods.R
-a3479d6637f1a14e6d6e984fdc0eb41b *R/3_functions.R
-cea39a000d8a6c5217f02f5a72b938b9 *man/JMdesign-package.Rd
+473e7a114f786cc80f1048b202d56b33 *DESCRIPTION
+0e6f0f68496fd9b971b0ddbdcc92ba12 *NAMESPACE
+1df4fec2cea62afbdcb61e2f5a55db91 *R/1_classes.R
+d6d4981f5c23e5cdba099a7136a48b89 *R/2_methods.R
+62f14bdfb8026306163ea46ef5bc2326 *R/3_functions.R
+e8230a48f47c72202bf6d2edf3198e36 *R/errorTesting.R
+dfe8c3b8efdbfa2007a5e262db2c20a9 *man/JMdesign-package.Rd
 375f634e04572e88ed36ab2337b6873a *man/powerLongSurv-class.Rd
-43458734beea3d806e324ebe4f4e8aee *man/powerLongSurv.Rd
+3b8de31f8e6732472da817fce21138f4 *man/powerLongSurv.Rd
 0ddfe8b67dd8951a5b19e9e40eb725e2 *man/show-methods.Rd
