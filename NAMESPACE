@@ -6,3 +6,4 @@ exportClasses(
     "powerLongSurv" 
 )
 import(methods)
+importFrom("stats", "pnorm", "qnorm")
