@@ -1,3 +1,13 @@
+#' Methods for Function \code{show}
+#' 
+#' Methods for function \code{show}
+#' 
+#' @docType methods
+#' 
+#' @param object An object of class \code{powerLongSurv}
+#' 
+#' @keywords methods
+#' @export
 setMethod("show",
           signature = "powerLongSurv",
           definition = 
