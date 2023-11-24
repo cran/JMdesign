@@ -43,7 +43,6 @@
 #'
 #' @returns An object of S4 class \code{powerLongSurv},
 #'  which has the following 12 components
-#'  \itemize{
 #'    \item{title }{character string}
 #'    \item{subtitle }{character string}
 #'    \item{t }{numeric vector}
@@ -59,7 +58,6 @@
 #'    \item{beta }{numeric}
 #'    \item{alpha }{numeric}
 #'    \item{power }{numeric}
-#' }
 #'  
 #' @references
 #'  L. M. Chen, J. G. Ibrahim, and H. Chu. Sample size and power determination

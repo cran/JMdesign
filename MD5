@@ -1,10 +1,10 @@
-db55150367bd8bfab00a0216b0006b66 *DESCRIPTION
+f6813081eb8c6c2d915ef55671629a6e *DESCRIPTION
 34dbf2e1d5071acbacc94c1169bed017 *NAMESPACE
-f59db06bcd275848c835cd8b05d9c275 *NEWS
+3a352e94771c83d3d2e47b3b9ce9b075 *NEWS
 c254c62f1201e1c28be24bc3b14c34bc *R/1_classes.R
 c204bb4f8e3ce0ad71c5329451828c47 *R/2_methods.R
-69e3eebd3d6d8d644dfc8945bc257c89 *R/3_functions.R
+5e518abd8179157b397e850ac468d5c5 *R/3_functions.R
 e8230a48f47c72202bf6d2edf3198e36 *R/errorTesting.R
 c0383b25e1114cb9c3171a3ef569e5c8 *man/powerLongSurv-class.Rd
-2d86673fcc0362f26c353c4fc3242973 *man/powerLongSurv.Rd
+8d7cd9a7a059034c9f9e52050559c608 *man/powerLongSurv.Rd
 158054b5af168a594cc014e3e07e85e9 *man/show-powerLongSurv-method.Rd

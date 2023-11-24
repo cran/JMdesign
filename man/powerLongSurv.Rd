@@ -55,7 +55,6 @@ Passed to R function all.equal.}
 \value{
 An object of S4 class \code{powerLongSurv},
  which has the following 12 components
- \itemize{
    \item{title }{character string}
    \item{subtitle }{character string}
    \item{t }{numeric vector}
@@ -71,7 +70,6 @@ An object of S4 class \code{powerLongSurv},
    \item{beta }{numeric}
    \item{alpha }{numeric}
    \item{power }{numeric}
-}
 }
 \description{
 Compute the power in joint modeling of longitudinal and survival data 

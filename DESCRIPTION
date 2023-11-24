@@ -2,8 +2,8 @@ Package: JMdesign
 Type: Package
 Title: Joint Modeling of Longitudinal and Survival Data - Power
         Calculation
-Version: 1.4
-Date: 2023-10-01
+Version: 1.5
+Date: 2023-11-24
 Author: Emil A. Cornea, Liddy M. Chen, Bahjat F. Qaqish, Haitao Chu, and 
     Joseph G. Ibrahim
 Maintainer: Shannon T. Holloway <shannon.t.holloway@gmail.com>
@@ -15,6 +15,6 @@ Depends: methods
 Encoding: UTF-8
 NeedsCompilation: no
 RoxygenNote: 7.2.1
-Packaged: 2023-10-01 18:22:25 UTC; 19194
+Packaged: 2023-11-24 17:13:16 UTC; 19194
 Repository: CRAN
-Date/Publication: 2023-10-01 18:40:02 UTC
+Date/Publication: 2023-11-24 17:30:02 UTC
